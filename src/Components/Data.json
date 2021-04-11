@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "tran duc bo",
+        "tel": "123455",
+        "permission": "1"
+    },
+    {
+        "id": 2,
+        "name": "Huynh Van Quynh",
+        "tel": "123455",
+        "permission": "3"
+    }
+]
